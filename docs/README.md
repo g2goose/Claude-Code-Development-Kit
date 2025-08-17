@@ -202,6 +202,18 @@ The 3-tier system succeeds when:
 4. **Commands work efficiently** - Appropriate context loads automatically
 5. **MCP servers provide relevant advice** - External AI understands your project
 
+## Project Upgrade Guides
+
+### BT1ZA Claude Repository Upgrade
+
+Complete documentation for upgrading the `g2goose/bt1za_claude` repository with the Claude Code Development Kit:
+
+- **[Upgrade Strategy](BT1ZA_CLAUDE_UPGRADE_STRATEGY.md)** - Comprehensive implementation plan with phases, timeline, and success metrics
+- **[Assessment Checklist](BT1ZA_CLAUDE_ASSESSMENT_CHECKLIST.md)** - Technical evaluation framework for repository compatibility
+- **[Quick Reference](BT1ZA_CLAUDE_QUICK_REFERENCE.md)** - Emergency procedures and implementation commands
+
+These guides provide a complete framework for upgrading any existing Claude-based project with the Development Kit.
+
 ---
 
 *Part of the Claude Code Development Kit - see [main documentation](../README.md) for complete system overview.*
